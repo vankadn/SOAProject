@@ -250,3 +250,5 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/SOAMultiClient/SOAMultiClient/Web.Debug.config
+/SOAMultiClient/SOAMultiClient/Web.Release.config
